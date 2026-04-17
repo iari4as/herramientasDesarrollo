@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f39202e3-2332-4cf0-9400-12c91c15e233" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/CalculadoraspringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/CalculadoraspringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/controllers/CalculadoraController.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/controllers/CalculadoraController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/entities/CalculadoraRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/entities/CalculadoraRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/services/CalculadoraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/src/main/java/cl/usm/calculadoraspring/services/CalculadoraService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadoraSpring/src/test/java/cl/usm/calculadoraspring/CalculadoraspringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadoraSpring/src/test/java/cl/usm/calculadoraspring/CalculadoraspringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/controller/BoletaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/controller/BoletaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/entities/BoletaRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/entities/BoletaRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/entities/BoletaResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/entities/BoletaResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/service/BoletaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/boletas_spring/src/main/java/com/example/boletas_spring/service/BoletaService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3CAv70HE4iJ1Xrx8Q7ZaSCgwIms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/mount/particionWin/Users/Snipe/OneDrive/Escritorio/_/herramientaDesarrollo"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f39202e3-2332-4cf0-9400-12c91c15e233" name="Changes" comment="" />
+      <created>1775841019283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775841019283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
