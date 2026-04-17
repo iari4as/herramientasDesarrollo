@@ -9,6 +9,8 @@ public interface usuarioService {
     //solo declaraciones de los servicios
     boolean createUser(Usuario user);
     List<Usuario> getAll();
-    Optional<Usuario> findByEmail(String email);
-    // proteccion de nullidad
+    Optional<Usuario> findByEmail(String email);// proteccion de nullidad
+
+    List<Usuario> filter(String query);
+
 }
