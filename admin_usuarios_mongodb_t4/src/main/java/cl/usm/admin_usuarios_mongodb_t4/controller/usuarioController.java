@@ -49,8 +49,6 @@ public class usuarioController {
         Optional<Usuario> usuarioEncontrado = this.userService.findByEmail(email);
 
         try {
-
-
             if (usuarioEncontrado.isEmpty()) {
                 return ResponseEntity.notFound().build();
             }
